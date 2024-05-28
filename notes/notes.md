@@ -6,12 +6,17 @@
 
 ## HTML Heading Elements
 - Opening tag `<[command]>`
-- Closing tage `<\[command]>`
+- Closing tage `</[command]>`
 - Follows structure `[tag][element][closing tag]`
 
-# HTML Paragraph Elements
+## HTML Paragraph Elements
 - Helps distinguish betwee paragraphs.
 - Assists the blind when using readers by allowing them to skip to the next paragraph.
+
+## Self Closing Tags
+- A *void* element is an element where you cannot enter any content within a set of tags.
+- An example is `<hr />` which adds a horizontal rule to the page.
+- Another example is `<br />` which adds a break within paragraphs.
 
 # Intermediate HTML
 
