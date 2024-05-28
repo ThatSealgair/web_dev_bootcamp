@@ -1,4 +1,14 @@
 # Introduction to HTML
+## What is HTML?
+- Defines the content and structure of a website
+- Stands for HyperText Markup Language
+- Markup is done throug HTML tags
+
+## HTML Heading Elements
+- Opening tag `<[command]>`
+- Closing tage `<\[command]>`
+- Follows structure `[tag][element][closing tag]`
+
 
 
 # Intermediate HTML
