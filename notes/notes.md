@@ -9,7 +9,9 @@
 - Closing tage `<\[command]>`
 - Follows structure `[tag][element][closing tag]`
 
-
+# HTML Paragraph Elements
+- Helps distinguish betwee paragraphs.
+- Assists the blind when using readers by allowing them to skip to the next paragraph.
 
 # Intermediate HTML
 
